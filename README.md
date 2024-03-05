@@ -13,8 +13,8 @@ Welcome to the Notes App repository! This is a web application built using Next.
 
 ## Screenshots
 
-![Screenshot 1](https://i.ibb.co/thDGY5V/Screenshot-2024-03-05-at-11-02-54-AM.png)
-![Screenshot 2](https://i.ibb.co/2KDQsmy/Screenshot-2024-03-05-at-11-00-27-AM.png)
+![Screenshot 1](https://i.ibb.co/2KDQsmy/Screenshot-2024-03-05-at-11-00-27-AM.png)
+![Screenshot 2](https://i.ibb.co/thDGY5V/Screenshot-2024-03-05-at-11-02-54-AM.png)
 
 ## Features
 
