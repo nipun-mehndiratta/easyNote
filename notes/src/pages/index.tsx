@@ -36,11 +36,11 @@ function InitUser() {
           setUsername(response.data.username);
           }
           else{
-            router.push('/signin');
+            router.push('/signup');
           }
         })
         .catch((error)=>{
-          router.push('/signin');
+          router.push('/signup');
         })
       } 
 
