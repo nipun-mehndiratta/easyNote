@@ -8,6 +8,7 @@ Welcome to the Notes App repository! This is a web application built using Next.
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
+- [Deployment](#deployment)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
@@ -64,6 +65,17 @@ In the server directory, run: npm run start
 7. Start the Frontend:
 
 In the notes directory, run: npm run dev
+
+## Deployment
+
+The frontend/Next.js application has been deployed on Netlify, while the backend is hosted on a server provided by Render.com.
+
+For deployment on a serverless platform like AWS Lambda, we need to:
+
+1. Install the serverless framework on the backend and make some adjustments for dependency injection and bootstrapping.
+2. Configure AWS credentials.
+3. Configure the serverless.yaml file.
+4. Deploy the application.
 
 ## Contributing
 
